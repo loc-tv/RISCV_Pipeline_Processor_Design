@@ -79,7 +79,7 @@ gtkwave dump.vcd
 
 ---
 
-## 🧪 Testbench
+## Testbench
 
 Testbench (`pipeline_tb.v`) thực hiện:
 
@@ -132,7 +132,7 @@ mem[A[31:2]]
 
 ---
 
-## 🚀 Tính năng chính
+## Tính năng chính
 
 | Feature          | Trạng thái            |
 | ---------------- | --------------------- |
